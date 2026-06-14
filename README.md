@@ -22,8 +22,8 @@
 <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" />
 </a>
 
-<a href="https://leetcode.com/u/mohammadzeineddin/" target="_blank">
-<img src="https://leetcode.com/u/grumpy_dumpy/" alt="leetcode" height="40" />
+<a href="https://leetcode.com/u/grumpy_dumpy" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" alt="leetcode" height="40" />
 </a>
 </p>
 
