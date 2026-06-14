@@ -9,7 +9,7 @@
 
 * 💬 Ask me about **Web Development**
 
-* 📫 How to reach me: **[mohammadzeineddin7@gmail.com](mailto:mohammadzeineddin7@gmail.com)**
+* 📫 How to reach me: <a href="mailto:mohammadzeineddin7@gmail.com">[mohammadzeineddin7@gmail.com](mailto:mohammadzeineddin7@gmail.com)</a>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -17,6 +17,7 @@
 <a href="https://linkedin.com/in/mohammad-zeineddin" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
 </a>
+
 <a href="https://instagram.com/mohammad_zd07" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" />
 </a>
@@ -25,7 +26,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,css,express,fedora,flask,git,html,java,javascript,linux,mongodb,nodejs,python&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=arduino,bash,bootstrap,css,flask,git,html,java,javascript,linux,mongodb,nodejs,python&perline=8" />
+
+<a href="https://fedoraproject.org/" target="_blank">
+<img src="https://hd2.tudocdn.net/1251424?w=702&h=421" alt="Fedora" width="40" height="40" />
+</a>
+
 </p>
 
 <p>
