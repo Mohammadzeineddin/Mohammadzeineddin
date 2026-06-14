@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://leetcode.com/u/mohammadzeineddin/" target="_blank">
-<img src="[https://cdn.simpleicons.org/leetcode](https://leetcode.com/u/grumpy_dumpy/)" alt="leetcode" height="40" />
+<img src="https://leetcode.com/u/grumpy_dumpy/" alt="leetcode" height="40" />
 </a>
 </p>
 
